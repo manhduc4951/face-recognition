@@ -1,2 +1,2 @@
 # Face recognition using opencv and haar features
-![Screenshot]\(https://imgur.com/a/GAAGg)
+![Imgur Image](https://imgur.com/a/GAAGg.png)
